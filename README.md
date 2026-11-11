@@ -37,8 +37,6 @@
 ```yaml
 name: Moin Shaikh
 
-role: Full-Stack Developer
-
 education:
   degree: M.Sc. Data Analytics
   college: Pillai College
